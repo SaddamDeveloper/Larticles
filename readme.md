@@ -12,6 +12,7 @@ run the project by following steps
 8. open phpmyadmin by going http://localhost/phpmyadmin create database 'larticles'
 9. import the 'larticles.sql' file
 10. run command 'php artisan serve'
+11. open browser with http://localhost:8000
 
 ## License
 
